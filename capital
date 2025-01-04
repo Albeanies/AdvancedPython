@@ -1,0 +1,5 @@
+capital = {"India":"New Delhi", "USA":"Washington DC", "France":"Paris", "Sri Lanka":"Columbo"}
+capital["UK"]="London"
+capital["Italy"]="Rome"
+capital["Spain"]="Madrid"
+print(capital)
