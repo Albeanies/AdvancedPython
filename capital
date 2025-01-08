@@ -3,3 +3,11 @@ capital["UK"]="London"
 capital["Italy"]="Rome"
 capital["Spain"]="Madrid"
 print(capital)
+capital={'India': 'New Delhi', 'USA': 'Washington DC', 'France': 'Paris', 'Sri Lanka': 'Columbo', 'UK': 'London', 'Italy': 'Rome', 'Spain': 'Madrid', 'Russia': 'Moscow', 'Germany': 'Berlin', 'Australia': 'Canberra'}
+print("UK" in capital)
+print("UA" in)
+capital={'India': 'New Delhi', 'USA': 'Washington DC', 'France': 'Paris', 'Sri Lanka': 'Columbo', 'UK': 'London', 'Italy': 'Rome', 'Spain': 'Madrid', 'Russia': 'Moscow', 'Germany': 'Berlin', 'Australia': 'Canberra'}
+
+#clear command -->
+capital.clear()
+print(capital)
